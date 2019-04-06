@@ -1,11 +1,13 @@
 # Perceptron
 
 The python script ml.py implements different variants of perceptron such as:
-Simple Perceptron,
-Perceptron with dynamic learning rate,
-Margin Perceptron, 
-Averaged Perceptron and
-Aggresive Perceptron with dynamic learning rate.
+1. Simple Perceptron,
+2. Perceptron with dynamic learning rate,
+3. Margin Perceptron, 
+4. Averaged Perceptron and
+5. Aggresive Perceptron with dynamic learning rate.
+
+All these variants of perceptron are implemented from scratch in python.
 
 
 The command to run the script is
